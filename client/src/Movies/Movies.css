@@ -1,0 +1,24 @@
+.movie-form{
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    justify-content: center;
+    margin: 0 auto;
+}
+input{
+    margin: 5px 0;
+    padding: 5px 15px;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+input::placeholder{
+    margin: 5px 0;
+    text-align: center;
+}
+button{
+    background-color: #87CEFA;
+    border: 1px solid grey;
+    padding: 5px 15px;
+    margin-top: 5px;
+    border-radius: 5px;
+}

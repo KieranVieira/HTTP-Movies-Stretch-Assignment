@@ -66,8 +66,9 @@ body {
   color: white;
 }
 
-.home-button {
+.home-button a{
   padding: 5px 10px;
+  margin: 0 5px;
   background-color: lightskyblue;
 }
 
